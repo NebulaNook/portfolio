@@ -1,12 +1,66 @@
-# React + Vite
+# Kaushal Neupane - Portfolio
+![GitHub repo size](https://img.shields.io/github/repo-size/NebulaNook/your-portfolio?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/NebulaNook/your-portfolio?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/NebulaNook/your-portfolio?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/NebulaNook/your-portfolio?style=flat-square)
+![Made with React](https://img.shields.io/badge/Made_with-React-blue?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Styled_with-Tailwind%20CSS-teal?style=flat-square&logo=tailwind-css)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my skills, projects, and contact information as a Full Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About Me
 
-## Expanding the ESLint configuration
+Hi! I'm **Kaushal Neupane**, a passionate Full Stack Developer skilled in building responsive, dynamic web applications using modern technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Responsive design optimized for all devices
+- Showcases my skills and technologies I use
+- Highlights my recent projects with live demos and GitHub links
+- Contact section with quick access to email, phone, and location
+- Clean UI built with React and Tailwind CSS
+
+---
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- React Icons
+
+---
+
+## Project Structure
+
+- `src/components` – React components like Intro, Experience, Projects, Contact, Details, etc.
+- `src/assets` – Images and other static files
+- `src/App.jsx` – Main application file
+- `tailwind.config.js` – Tailwind CSS configuration
+
+---
+
+## Installation & Setup
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
+   cd your-portfolio
+2. Install dependencies
+   ```bash
+   npm install
+3. Run the development server
+   ```bash
+   npm start
+4. Open http://localhost:3000 to view it in the browser.
+
+## Deployment
+You can deploy this portfolio easily on platforms like Netlify, Vercel, or GitHub Pages.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
