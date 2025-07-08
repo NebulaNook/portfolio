@@ -89,7 +89,7 @@ const Experience = () => {
           </div>
           <div>
             <p className="font-medium">&#10003; PostgreSQL</p>
-            <p className="text-sm text-gray-600">Currently Exploring</p>
+            <p className="text-sm text-gray-600">Intermediate</p>
           </div>
           <div>
             <p className="font-medium">&#10003; TypeScript</p>
@@ -97,7 +97,7 @@ const Experience = () => {
           </div>
           <div>
             <p className="font-medium">&#10003; Next.js</p>
-            <p className="text-sm text-gray-600">Currently Exploring</p>
+            <p className="text-sm text-gray-600">Intermediate</p>
           </div>
         </div>
       </div>
